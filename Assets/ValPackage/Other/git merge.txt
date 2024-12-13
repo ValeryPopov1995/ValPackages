@@ -1,0 +1,3 @@
+for merge new project with ValerryCommon use this in git terminal
+
+git merge common/master --allow-unrelated-histories

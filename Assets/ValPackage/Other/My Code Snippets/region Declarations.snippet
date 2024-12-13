@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>#region Decalarations</Title>
+			<Shortcut>decalarations</Shortcut>
+			<SnippetTypes>
+				<SnippetType>SurroundsWith/Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Code Language="CSharp"
+				  Kind="decl/type">
+				<![CDATA[#region Declarations
+				
+				
+				
+				#endregion$end$]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>#region</Title>
+			<Shortcut>region</Shortcut>
+			<SnippetTypes>
+				<SnippetType>SurroundsWith/Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Literal default="true" Editable="true">
+				<ID>selection</ID>
+				<ToolTip>title</ToolTip>
+				<Default>Declarations</Default>
+			</Literal>
+			<Code Language="CSharp"
+				  Kind="decl/type">
+				<![CDATA[#region $selection$
+				
+				
+				
+				#endregion$end$]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+	
+</CodeSnippets>

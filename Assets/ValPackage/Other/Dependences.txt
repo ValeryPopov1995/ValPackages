@@ -1,0 +1,17 @@
+Unity Registry:
+Addressables
+
+Services:
+Analytics
+Authentication
+RemoteConfig
+
+From URL Packages:
+UnityMeshSimplifier - https://github.com/Whinarn/UnityMeshSimplifier.git
+UniTask - https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask#2.1.0
+Zenject - https://github.com/mob-sakai/UpmGitExtension.git
+
+From AssetStore:
+DoTween
+FMOD
+NaughtyAttributes

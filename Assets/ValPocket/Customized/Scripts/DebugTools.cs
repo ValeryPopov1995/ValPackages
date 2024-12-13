@@ -2,7 +2,7 @@ using IngameDebugConsole;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace ValPackage.Customized
+namespace ValPocket.Customized
 {
     public class DebugTools : MonoBehaviour
     {

@@ -1,0 +1,7 @@
+Ctrl Shift F12 for create asset from classic font
+select asset
+"Update Atlas Texture"
+select CharacterSet > Custom Characters
+insert 1 or more characters
+edit Padding in THIS window
+generate atlas

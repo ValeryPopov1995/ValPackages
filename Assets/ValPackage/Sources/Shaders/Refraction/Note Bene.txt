@@ -1,0 +1,4 @@
+Use Scene Color in Shader graph for URP
+and HD Scene Color for HDRP
+
+In used Render pipeline profile enable Opeque Texture

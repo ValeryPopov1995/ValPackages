@@ -2,13 +2,13 @@ This is unity project to create unity-packages and share by url:
 - ValPackage
 - ValPocket
 # ValPackage
-Add to PackageManager from [URL](url)
+Add to PackageManager from [URL](https://github.com/ValeryPopov1995/ValPackages.git?path=Assets/ValPackage)
 The achievements made during the practice of being a programmer:
 - Extansions
 - Useful popular scripts
 - Editor tools
 # ValPocket
-Add to PackageManager from [URL](url)
+Add to PackageManager from [URL](https://github.com/ValeryPopov1995/ValPackages.git?path=Assets/ValPocket)
 Set of popular useful free packages from AssetStore and Repositories:
 - [Hierarchy Icons](https://assetstore.unity.com/packages/package/224856)
 - [DoTween](https://assetstore.unity.com/packages/package/27676)

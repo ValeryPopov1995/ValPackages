@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace Gimbal.UI
+namespace ValPackage.Application
 {
     /// <summary>
     /// Thread context to execute anything in setted (main) thread

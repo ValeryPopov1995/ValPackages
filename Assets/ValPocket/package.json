@@ -1,7 +1,6 @@
 {
-    "name": "com.valerjan.valpocket",
-    "displayName": "Package Pack",
-    "version": "1.0.0",
-    "unity": "6000.0",
+    "name": "com.valerypopov.valpocket",
+    "displayName": "ValPocket",
+    "version": "1.0.1",
     "description": "My custom package pack for all unity projects"
 }

@@ -2,6 +2,9 @@
     "name": "com.valerjan.valpackage",
     "displayName": "Package Pack",
     "version": "1.0.0",
-    "unity": "6000.0",
-    "description": "My custom package pack"
+    "description": "My developments",
+    "dependencies": {
+        "com.unity.addressables": "2.2.2",
+        "com.unity.cinemachin": "2.10.1"
+    }
 }
