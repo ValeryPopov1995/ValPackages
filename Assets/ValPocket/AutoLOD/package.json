@@ -1,0 +1,24 @@
+{
+  "name": "com.stcost.autolod",
+  "displayName": "AutoLOD",
+  "version": "0.1.0",
+  "unity": "2023.3",
+  "description": "Automatic LOD generation",
+  "keywords": [
+    "autolod",
+    "lod",
+    "3d",
+    "mesh",
+    "polygon",
+    "triangle",
+    "simplification",
+    "decimation",
+    "reduction",
+    "optimization"
+  ],
+  "author": {
+    "name": "StCost"
+  },
+  "bugs": "https://github.com/StCost/AutoLOD/issues",
+  "_fingerprint": "009752bd717da5bebeedf1819e9f61b11cbbb2de"
+}
