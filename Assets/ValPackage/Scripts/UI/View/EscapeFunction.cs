@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.Events;
 
-namespace ValeryPopov.Common.Ui
+namespace ValPackage.Common.Ui
 {
     public class EscapeFunction : MonoBehaviour
     {

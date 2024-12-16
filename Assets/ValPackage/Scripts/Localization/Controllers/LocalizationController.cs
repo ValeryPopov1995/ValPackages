@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using Zenject;
 
-namespace ValeryPopov.Common.Localization
+namespace ValPackage.Common.Localization
 {
     public abstract class LocalizationController : MonoBehaviour
     {

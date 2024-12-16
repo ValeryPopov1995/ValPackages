@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace ValeryPopov.Common.Damage
+namespace ValPackage.Common.Damage
 {
     [System.Serializable]
     public class DamageDealer

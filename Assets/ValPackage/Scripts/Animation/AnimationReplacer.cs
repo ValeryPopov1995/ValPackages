@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace ValeryPopov.Common.Animation
+namespace ValPackage.Common.Animation
 {
     public static class AnimationReplacer
     {

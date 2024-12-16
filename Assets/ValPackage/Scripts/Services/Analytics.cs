@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-using ValeryPopov.Common.Extantions;
+using ValPackage.Common.Extantions;
 
-namespace ValeryPopov.Common.Services
+namespace ValPackage.Common.Services
 {
     public abstract class Analytics : Singleton<Analytics>
     {

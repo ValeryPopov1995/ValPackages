@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace ValeryPopov.Common.Settings.GraphicSettings
+namespace ValPackage.Common.Settings.GraphicSettings
 {
     public class FullScreen_GameSetting : Int_GameSetting
     {

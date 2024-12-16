@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine.Events;
 
-namespace ValeryPopov.Common
+namespace ValPackage.Common
 {
     [Serializable]
     public struct CustomEvent

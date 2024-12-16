@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace ValeryPopov.Common.Localization
+namespace ValPackage.Common.Localization
 {
     [System.Serializable]
     public class LocalizationAudioData : LocalizationAssetData

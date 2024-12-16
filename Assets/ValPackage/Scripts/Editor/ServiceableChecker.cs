@@ -3,7 +3,7 @@ using System.Linq;
 using UnityEditor;
 using UnityEngine;
 
-namespace ValeryPopov.Common.Editor
+namespace ValPackage.Common.Editor
 {
     public static class ServiceableChecker
     {

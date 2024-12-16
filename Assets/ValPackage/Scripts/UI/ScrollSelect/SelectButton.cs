@@ -3,7 +3,7 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace ValeryPopov.Common.Ui.ScrollSelect
+namespace ValPackage.Common.Ui.ScrollSelect
 {
     [RequireComponent(typeof(Button))]
     public abstract class SelectButton : MonoBehaviour

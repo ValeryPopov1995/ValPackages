@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace ValeryPopov.Common
+namespace ValPackage.Common
 {
     [System.Serializable]
     public struct CustomVector3

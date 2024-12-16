@@ -2,10 +2,10 @@
 using UnityEngine;
 using UnityEngine.AddressableAssets;
 using UnityEngine.UI;
-using ValeryPopov.Common.PauseSystem;
+using ValPackage.Common.PauseSystem;
 using Zenject;
 
-namespace ValeryPopov.Common.Ui
+namespace ValPackage.Common.Ui
 {
     public class PauseMenuLoader : MonoBehaviour
     {

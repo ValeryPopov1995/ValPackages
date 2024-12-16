@@ -3,7 +3,7 @@ using System;
 using System.Threading.Tasks;
 using UnityEngine;
 
-namespace ValeryPopov.Common.Mobile
+namespace ValPackage.Common.Mobile
 {
     [RequireComponent(typeof(RectTransform))]
     public class OrientationPositioner : MonoBehaviour

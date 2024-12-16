@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
-using ValeryPopov.Common.Extantions;
+using ValPackage.Common.Extantions;
 
-namespace ValeryPopov.Common.Localization
+namespace ValPackage.Common.Localization
 {
     public static class GoogleHtmlTableParser
     {

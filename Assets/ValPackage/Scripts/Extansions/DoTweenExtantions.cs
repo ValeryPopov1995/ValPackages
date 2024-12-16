@@ -4,7 +4,7 @@ using DG.Tweening.Plugins.Options;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace ValeryPopov.Common.Extantions
+namespace ValPackage.Common.Extantions
 {
     public static class DoTweenExtantions
     {

@@ -1,4 +1,4 @@
-﻿namespace ValeryPopov.Common.Services
+﻿namespace ValPackage.Common.Services
 {
     public class UnityAnalytics : Analytics
     {

@@ -3,7 +3,7 @@ using UnityEditor;
 using UnityEngine;
 using UnityMeshSimplifier;
 
-namespace ValeryPopov.Common.Editor
+namespace ValPackage.Common.Editor
 {
     public static class MeshSimplifierRemover
     {

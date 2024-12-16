@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ValeryPopov.Common.Physic
+namespace ValPackage.Common.Physic
 {
     public class TriggerZoneByComponent : MonoCollection<Collider>
     {

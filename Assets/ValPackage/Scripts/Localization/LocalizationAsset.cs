@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 using UnityEditor;
 using UnityEngine;
 
-namespace ValeryPopov.Common.Localization
+namespace ValPackage.Common.Localization
 {
     /// <summary>
     /// Набор данных (текст, аудио...) для одного конекретного языка, используемого в игре
     /// </summary>
-    [CreateAssetMenu(menuName = "Scriptable/ValeryCommon/Localization Asset", order = 1)]
+    [CreateAssetMenu(menuName = "Scriptable/ValPackage/Localization Asset", order = 1)]
     public class LocalizationAsset : ScriptableObject
     {
         [field: SerializeField] public Language Language { get; private set; }

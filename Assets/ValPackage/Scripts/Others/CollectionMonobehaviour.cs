@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace ValeryPopov.Common
+namespace ValPackage.Common
 {
     /// <summary>
     /// Have static List of every instances of class

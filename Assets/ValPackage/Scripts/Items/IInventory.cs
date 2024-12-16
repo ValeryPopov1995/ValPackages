@@ -1,4 +1,4 @@
-﻿namespace ValeryPopov.Common.Items
+﻿namespace ValPackage.Common.Items
 {
     public interface IInventory
     {

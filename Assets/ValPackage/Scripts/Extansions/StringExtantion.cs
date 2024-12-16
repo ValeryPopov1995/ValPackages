@@ -1,4 +1,4 @@
-﻿namespace ValeryPopov.Common.Extantions
+﻿namespace ValPackage.Common.Extantions
 {
     public static class StringExtantion
     {

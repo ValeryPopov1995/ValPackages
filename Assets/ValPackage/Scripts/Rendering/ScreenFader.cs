@@ -5,11 +5,11 @@ using System.Threading.Tasks;
 using UnityEngine;
 using UnityEngine.Rendering;
 using UnityEngine.Rendering.Universal;
-using ValeryPopov.Common.Addressables;
-using ValeryPopov.Common.Extantions;
+using ValPackage.Common.Addressables;
+using ValPackage.Common.Extantions;
 using Zenject;
 
-namespace ValeryPopov.Common.Rendering
+namespace ValPackage.Common.Rendering
 {
     public class ScreenFader : MonoBehaviour
     {

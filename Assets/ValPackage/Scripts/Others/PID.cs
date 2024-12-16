@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ValeryPopov.Common
+namespace ValPackage.Common
 {
     /// <summary>
     /// Discrete time PID controller class. The most basic PID controller. Does nothing fancy, just a bare bones implementation.

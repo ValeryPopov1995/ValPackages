@@ -4,11 +4,11 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEditor;
 using UnityEngine;
-using ValeryPopov.Common.Extantions;
-using ValeryPopov.Common.SaveLoad;
+using ValPackage.Common.Extantions;
+using ValPackage.Common.SaveLoad;
 using Zenject;
 
-namespace ValeryPopov.Common.Services
+namespace ValPackage.Common.Services
 {
     /// <summary>
     /// Collect and save all analytics events, register of events. Useful for UnityAnalytics (need create events in dashboard)

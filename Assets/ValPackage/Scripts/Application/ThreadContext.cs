@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace ValPackage.Application
+namespace ValPackage.Common.App
 {
     /// <summary>
     /// Thread context to execute anything in setted (main) thread

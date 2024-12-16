@@ -2,9 +2,9 @@
 using System.Threading.Tasks;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
-using ValeryPopov.Common.Extantions;
+using ValPackage.Common.Extantions;
 
-namespace ValeryPopov.Common.Addressables
+namespace ValPackage.Common.Addressables
 {
     /// <summary>
     /// Load/unload prefab to instantiate

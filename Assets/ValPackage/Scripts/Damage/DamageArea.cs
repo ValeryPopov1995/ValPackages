@@ -2,9 +2,9 @@
 using System.Data;
 using System.Linq;
 using UnityEngine;
-using ValeryPopov.Common.Extantions;
+using ValPackage.Common.Extantions;
 
-namespace ValeryPopov.Common.Damage
+namespace ValPackage.Common.Damage
 {
     public class DamageArea : MonoBehaviour
     {

@@ -1,8 +1,8 @@
 using UnityEngine;
 
-namespace ValeryPopov.Common.Ui.ScrollSelect.Example
+namespace ValPackage.Common.Ui.ScrollSelect.Example
 {
-    [CreateAssetMenu(menuName = "Scriptable/ValeryCommon/ScrollSelect/Item Data Example")]
+    [CreateAssetMenu(menuName = "Scriptable/ValPackage/ScrollSelect/Item Data Example")]
     public class ItemData : SelectableData
     {
         [field: SerializeField] public string Title { get; private set; } = "No name";

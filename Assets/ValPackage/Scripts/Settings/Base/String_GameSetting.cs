@@ -1,4 +1,4 @@
-﻿namespace ValeryPopov.Common.Settings
+﻿namespace ValPackage.Common.Settings
 {
     public class String_GameSetting : GameSetting<string>
     {

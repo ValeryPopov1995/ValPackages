@@ -2,7 +2,7 @@
 using System;
 using UnityEngine;
 
-namespace ValeryPopov.Common.Ui
+namespace ValPackage.Common.Ui
 {
     /// <summary>
     /// Хранит последние закрытые окна для метод возврата на предыдущее окно

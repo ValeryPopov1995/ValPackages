@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using Zenject;
 
-namespace ValeryPopov.Common.PauseSystem
+namespace ValPackage.Common.PauseSystem
 {
     public abstract class PausableMonoBehaviour : MonoBehaviour
     {

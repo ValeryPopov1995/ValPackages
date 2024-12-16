@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace ValeryPopov.Common
+namespace ValPackage.Common
 {
     public class ApplicationMethods : MonoBehaviour
     {

@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-namespace ValeryPopov.Common.Ui
+namespace ValPackage.Common.Ui
 {
     /// <summary>
     /// Save bool by <see cref="SaveLoad.SaveSystem"/>

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace ValeryPopov.Common.App
+namespace ValPackage.Common.App
 {
     public class ApplicationStartup : MonoBehaviour
     {

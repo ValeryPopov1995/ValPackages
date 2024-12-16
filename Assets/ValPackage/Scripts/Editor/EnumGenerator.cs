@@ -3,13 +3,13 @@ using System.IO;
 using UnityEditor;
 using UnityEngine;
 
-namespace ValeryPopov.Common.Editor
+namespace ValPackage.Common.Editor
 {
-    [CreateAssetMenu(menuName = "Scriptable/ValeryCommon/Enum Generator")]
+    [CreateAssetMenu(menuName = "Scriptable/ValPackage/Enum Generator")]
     public class EnumGenerator : ScriptableObject
     {
         [SerializeField] private string EnumName = "SaveKeysType";
-        [SerializeField] private string Namespace = "ValeryPopov.Game";
+        [SerializeField] private string Namespace = "Developer.Game";
         [SerializeField] private string[] _keys;
 
         [Button]

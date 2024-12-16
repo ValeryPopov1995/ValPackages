@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace ValeryPopov.Common
+namespace ValPackage.Common
 {
     public interface IShowable
     {

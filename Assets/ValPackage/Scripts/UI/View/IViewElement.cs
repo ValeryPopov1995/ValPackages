@@ -1,4 +1,4 @@
-﻿namespace ValeryPopov.Common.Ui
+﻿namespace ValPackage.Common.Ui
 {
     /// <summary>
     /// Дочерние компоненты в составе UiView, выполняют действия, вызываемые из UiView

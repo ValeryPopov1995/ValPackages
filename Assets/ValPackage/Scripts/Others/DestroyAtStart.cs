@@ -1,7 +1,7 @@
 ﻿using NaughtyAttributes;
 using UnityEngine;
 
-namespace ValeryPopov.Common
+namespace ValPackage.Common
 {
     public class DestroyAtStart : MonoBehaviour
     {

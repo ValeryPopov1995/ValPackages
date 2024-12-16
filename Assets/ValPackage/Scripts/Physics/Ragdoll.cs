@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.AI;
 using UnityEngine.UI;
 
-namespace ValeryPopov.Common.Physic
+namespace ValPackage.Common.Physic
 {
     public class Ragdoll : MonoBehaviour
     {

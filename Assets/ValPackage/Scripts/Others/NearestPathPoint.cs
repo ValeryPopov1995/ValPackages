@@ -2,7 +2,7 @@
 using NaughtyAttributes;
 using UnityEngine;
 
-namespace ValeryPopov.Common
+namespace ValPackage.Common
 {
     /// <summary>
     /// Update position on <see cref="Cinemachine.CinemachineSmoothPath"/> by <see cref="Target"/>

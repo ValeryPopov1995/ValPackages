@@ -4,11 +4,11 @@ using System.Threading.Tasks;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
 using UnityEngine.ResourceManagement.ResourceProviders;
-using ValeryPopov.Common.Extantions;
-using ValeryPopov.Common.Rendering;
+using ValPackage.Common.Extantions;
+using ValPackage.Common.Rendering;
 using Zenject;
 
-namespace ValeryPopov.Common.Addressables
+namespace ValPackage.Common.Addressables
 {
     /// <summary>
     /// Загружает/выгружает сцену с помощью Addressables

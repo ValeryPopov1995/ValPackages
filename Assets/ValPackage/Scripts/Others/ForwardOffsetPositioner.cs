@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace ValeryPopov.Common
+namespace ValPackage.Common
 {
     /// <summary>
     /// Set transform before target, rotating toward target

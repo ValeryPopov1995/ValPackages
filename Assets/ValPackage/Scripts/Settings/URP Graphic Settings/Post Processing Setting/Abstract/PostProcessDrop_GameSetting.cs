@@ -1,7 +1,7 @@
 ﻿using UnityEngine.Rendering;
 using Zenject;
 
-namespace ValeryPopov.Common.Settings.GraphicSettings
+namespace ValPackage.Common.Settings.GraphicSettings
 {
     public abstract class PostProcessDrop_GameSetting<T> : Int_GameSetting where T : VolumeComponent
     {

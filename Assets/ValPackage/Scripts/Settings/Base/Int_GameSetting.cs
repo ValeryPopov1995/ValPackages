@@ -1,4 +1,4 @@
-﻿namespace ValeryPopov.Common.Settings
+﻿namespace ValPackage.Common.Settings
 {
     public class Int_GameSetting : GameSetting<int>
     {

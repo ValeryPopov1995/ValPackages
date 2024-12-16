@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace ValeryPopov.Common.Physic
+namespace ValPackage.Common.Physic
 {
     [RequireComponent(typeof(WheelCollider))]
     public class WheelVisual : MonoBehaviour

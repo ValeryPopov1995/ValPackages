@@ -3,9 +3,9 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 using UnityEngine;
-using ValeryPopov.Common.Extantions;
+using ValPackage.Common.Extantions;
 
-namespace ValeryPopov.Common
+namespace ValPackage.Common
 {
     [Serializable]
     public class AsyncCircle : IDisposable

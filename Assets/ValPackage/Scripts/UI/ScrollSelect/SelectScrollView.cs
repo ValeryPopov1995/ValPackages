@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace ValeryPopov.Common.Ui.ScrollSelect
+namespace ValPackage.Common.Ui.ScrollSelect
 {
     [RequireComponent(typeof(ScrollRect))]
     [RequireComponent(typeof(CanvasGroup))]

@@ -1,11 +1,11 @@
 ﻿using UnityEngine;
 using UnityEngine.Rendering;
 using UnityEngine.Rendering.Universal;
-using ValeryPopov.Common.Addressables;
-using ValeryPopov.Common.SaveLoad;
+using ValPackage.Common.Addressables;
+using ValPackage.Common.SaveLoad;
 using Zenject;
 
-namespace ValeryPopov.Common.Settings
+namespace ValPackage.Common.Settings
 {
     public abstract class GameSetting : MonoBehaviour
     {

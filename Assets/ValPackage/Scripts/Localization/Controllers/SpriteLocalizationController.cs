@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-namespace ValeryPopov.Common.Localization
+namespace ValPackage.Common.Localization
 {
     public class SpriteLocalizationController : LocalizationController
     {

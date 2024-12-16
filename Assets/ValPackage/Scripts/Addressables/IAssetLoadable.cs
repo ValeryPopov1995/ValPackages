@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace ValeryPopov.Common.Addressables
+namespace ValPackage.Common.Addressables
 {
     public interface IAssetLoadable
     {

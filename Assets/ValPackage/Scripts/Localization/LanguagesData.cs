@@ -2,9 +2,9 @@
 using TMPro;
 using UnityEngine;
 
-namespace ValeryPopov.Common.Localization
+namespace ValPackage.Common.Localization
 {
-    [CreateAssetMenu(menuName = "Scriptable/ValeryCommon/Languages Data")]
+    [CreateAssetMenu(menuName = "Scriptable/ValPackage/Languages Data")]
     public class LanguagesData : ScriptableObject
     {
         public LanguageData[] LanguageDatas;

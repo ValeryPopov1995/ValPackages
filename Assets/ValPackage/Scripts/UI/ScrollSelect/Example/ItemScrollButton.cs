@@ -1,7 +1,7 @@
 ﻿using TMPro;
 using UnityEngine;
 
-namespace ValeryPopov.Common.Ui.ScrollSelect.Example
+namespace ValPackage.Common.Ui.ScrollSelect.Example
 {
     public class ItemScrollButton : SelectScrollButton
     {

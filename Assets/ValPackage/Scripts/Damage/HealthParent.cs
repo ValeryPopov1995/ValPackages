@@ -1,8 +1,8 @@
-﻿using ValeryPopov.Common.Extantions;
+﻿using ValPackage.Common.Extantions;
 using System;
 using UnityEngine;
 
-namespace ValeryPopov.Common.Damage
+namespace ValPackage.Common.Damage
 {
     public class HealthParent : Health
     {

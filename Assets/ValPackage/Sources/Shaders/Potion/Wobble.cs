@@ -2,7 +2,7 @@ using Cysharp.Threading.Tasks;
 using System.Threading.Tasks;
 using UnityEngine;
 
-namespace ValeryPopov.Common.Shaders
+namespace ValPackage.Common.Shaders
 {
     /// <summary>
     /// Liquid Wobble baheviour for Potion shader

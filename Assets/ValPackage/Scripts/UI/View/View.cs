@@ -4,7 +4,7 @@ using System;
 using System.Threading.Tasks;
 using UnityEngine;
 
-namespace ValeryPopov.Common.Ui
+namespace ValPackage.Common.Ui
 {
     /// <summary>
     /// UI window, container for ui elements

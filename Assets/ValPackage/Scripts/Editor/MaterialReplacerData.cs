@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace ValeryPopov.Common.Editor
+namespace ValPackage.Common.Editor
 {
-    [CreateAssetMenu(menuName = "Scriptable/ValeryCommon/MaterialReplacer Data")]
+    [CreateAssetMenu(menuName = "Scriptable/ValPackage/MaterialReplacer Data")]
     public class MaterialReplacerData : ScriptableObject
     {
         public List<Material> OldMaterials;

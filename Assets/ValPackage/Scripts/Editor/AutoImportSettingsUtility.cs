@@ -1,10 +1,10 @@
-﻿using ValeryPopov.Common.Extantions;
+﻿using ValPackage.Common.Extantions;
 using System;
 using System.Threading.Tasks;
 using UnityEditor;
 using UnityEngine;
 
-namespace ValeryPopov.Common.Editor
+namespace ValPackage.Common.Editor
 {
     /// <summary>
     /// Settings pattern to import settings of selected media

@@ -1,4 +1,4 @@
-﻿namespace ValeryPopov.Common
+﻿namespace ValPackage.Common
 {
     /// <summary>
     /// Check serviceable classes on scene by <see cref="ServiceableChecker.CheckServiceable"/>.

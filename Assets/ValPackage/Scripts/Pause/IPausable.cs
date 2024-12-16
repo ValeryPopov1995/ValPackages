@@ -1,4 +1,4 @@
-﻿namespace ValeryPopov.Common.PauseSystem
+﻿namespace ValPackage.Common.PauseSystem
 {
     /// <summary>
     /// Элемент, воспринимающий постановку игры на паузу

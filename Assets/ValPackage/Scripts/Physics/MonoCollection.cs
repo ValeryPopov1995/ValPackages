@@ -2,7 +2,7 @@
 using System.Linq;
 using UnityEngine;
 
-namespace ValeryPopov.Common.Physic
+namespace ValPackage.Common.Physic
 {
     public abstract class MonoCollection<TItem> : MonoBehaviour where TItem : Component
     {

@@ -1,9 +1,9 @@
 ﻿using System.Linq;
 using UnityEditor;
 using UnityEngine;
-using ValeryPopov.Common.Extantions;
+using ValPackage.Common.Extantions;
 
-namespace ValeryPopov.Common.Localization.Editor
+namespace ValPackage.Common.Localization.Editor
 {
     public static class LocalizationsIdsFromText
     {

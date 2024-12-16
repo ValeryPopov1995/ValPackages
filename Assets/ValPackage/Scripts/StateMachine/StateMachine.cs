@@ -1,9 +1,9 @@
 using System.Linq;
 using System.Threading.Tasks;
 using UnityEngine;
-using ValeryPopov.Common.Extantions;
+using ValPackage.Common.Extantions;
 
-namespace ValeryPopov.Common.StateMachineSystem
+namespace ValPackage.Common.StateMachineSystem
 {
     public class StateMachine : MonoBehaviour
     {

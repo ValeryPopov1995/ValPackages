@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace ValeryPopov.Common.StateMachineSystem
+namespace ValPackage.Common.StateMachineSystem
 {
     public abstract class State : MonoBehaviour, IDisposable
     {

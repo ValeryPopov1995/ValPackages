@@ -3,9 +3,9 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
-using ValeryPopov.Common.Extantions;
+using ValPackage.Common.Extantions;
 
-namespace ValeryPopov.Common.Physic
+namespace ValPackage.Common.Physic
 {
 
     [RequireComponent(typeof(Collider))]

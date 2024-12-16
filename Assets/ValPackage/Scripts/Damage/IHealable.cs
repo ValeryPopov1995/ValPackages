@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ValeryPopov.Common.Damage
+namespace ValPackage.Common.Damage
 {
     public interface IHealable : IHitable
     {

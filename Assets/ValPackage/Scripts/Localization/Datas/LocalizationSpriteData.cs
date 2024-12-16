@@ -1,4 +1,4 @@
-﻿namespace ValeryPopov.Common.Localization
+﻿namespace ValPackage.Common.Localization
 {
     using UnityEngine;
 

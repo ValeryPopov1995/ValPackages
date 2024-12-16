@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.Events;
 
-namespace ValeryPopov.Common
+namespace ValPackage.Common
 {
     public class MonoEvents : MonoBehaviour
     {

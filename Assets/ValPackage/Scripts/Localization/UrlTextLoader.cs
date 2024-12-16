@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.Networking;
 
-namespace ValeryPopov.Common.Localization
+namespace ValPackage.Common.Localization
 {
     /// <summary>
     /// Загружает Текст по url ссылке

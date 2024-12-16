@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace ValeryPopov.Common.PauseSystem
+namespace ValPackage.Common.PauseSystem
 {
     public class PausableCursor : PausableMonoBehaviour
     {

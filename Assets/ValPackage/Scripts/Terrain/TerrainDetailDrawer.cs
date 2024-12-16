@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace ValeryPopov.Common.TerrainDraw
+namespace ValPackage.Common.TerrainDraw
 {
     public class TerrainDetailDrawer : MonoBehaviour
     {

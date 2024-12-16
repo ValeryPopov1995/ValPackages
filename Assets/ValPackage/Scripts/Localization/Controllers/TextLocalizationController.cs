@@ -1,8 +1,8 @@
 ﻿using TMPro;
 using UnityEngine;
-using ValeryPopov.Common.Extantions;
+using ValPackage.Common.Extantions;
 
-namespace ValeryPopov.Common.Localization
+namespace ValPackage.Common.Localization
 {
     public class TextLocalizationController : LocalizationController
     {

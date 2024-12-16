@@ -1,10 +1,10 @@
 ﻿using System.Reflection;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using ValeryPopov.Common.Extantions;
+using ValPackage.Common.Extantions;
 using Zenject;
 
-namespace ValeryPopov.Common.App
+namespace ValPackage.Common.App
 {
     [DefaultExecutionOrder(-10000)]
     public class AutoLoadCoreScene : MonoBehaviour

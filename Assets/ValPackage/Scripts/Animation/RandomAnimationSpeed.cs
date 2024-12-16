@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace ValeryPopov.Common.Animation
+namespace ValPackage.Common.Animation
 {
     [RequireComponent(typeof(Animator))]
     public class RandomAnimationSpeed : MonoBehaviour

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace ValeryPopov.Common.Items
+namespace ValPackage.Common.Items
 {
     public interface IItem : IInteractable
     {

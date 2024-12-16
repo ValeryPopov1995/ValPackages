@@ -1,8 +1,8 @@
 ﻿using UnityEditor;
 using UnityEngine;
-using ValeryPopov.Common.Extantions;
+using ValPackage.Common.Extantions;
 
-namespace ValeryPopov.Common.Editor
+namespace ValPackage.Common.Editor
 {
     public class NamingUtility : EditorWindow
     {

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace ValeryPopov.Common.StateMachineSystem
+namespace ValPackage.Common.StateMachineSystem
 {
     /// <summary>
     /// Base class for state interruptions

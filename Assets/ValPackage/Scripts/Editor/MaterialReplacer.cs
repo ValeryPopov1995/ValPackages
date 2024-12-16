@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 using UnityEditor;
 using UnityEngine;
 
-namespace ValeryPopov.Common.Editor
+namespace ValPackage.Common.Editor
 {
 
     public class MaterialReplacer : EditorWindow

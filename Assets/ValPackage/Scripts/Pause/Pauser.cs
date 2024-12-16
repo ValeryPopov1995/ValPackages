@@ -3,9 +3,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
-using ValeryPopov.Common.Extantions;
+using ValPackage.Common.Extantions;
 
-namespace ValeryPopov.Common.PauseSystem
+namespace ValPackage.Common.PauseSystem
 {
     /// <summary>
     /// Устанавливает все найденные IPausable на паузу

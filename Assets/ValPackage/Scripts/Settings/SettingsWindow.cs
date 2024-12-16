@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
-using ValeryPopov.Common.Extantions;
-using ValeryPopov.Common.Ui;
+using ValPackage.Common.Extantions;
+using ValPackage.Common.Ui;
 
-namespace ValeryPopov.Common.Settings
+namespace ValPackage.Common.Settings
 {
     public class SettingsWindow : MonoBehaviour
     {

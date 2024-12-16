@@ -2,9 +2,9 @@
 using System;
 using System.IO;
 using UnityEngine;
-using ValeryPopov.Common.Extantions;
+using ValPackage.Common.Extantions;
 
-namespace ValeryPopov.Common
+namespace ValPackage.Common
 {
     public class Screenshoter : MonoBehaviour
     {

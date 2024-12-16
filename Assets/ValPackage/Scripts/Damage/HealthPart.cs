@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace ValeryPopov.Common.Damage
+namespace ValPackage.Common.Damage
 {
     public class HealthPart : Health, IServiceable
     {

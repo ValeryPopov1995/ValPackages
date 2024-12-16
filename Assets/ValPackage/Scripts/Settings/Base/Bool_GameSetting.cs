@@ -1,4 +1,4 @@
-﻿namespace ValeryPopov.Common.Settings
+﻿namespace ValPackage.Common.Settings
 {
     public class Bool_GameSetting : GameSetting<bool>
     {

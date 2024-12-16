@@ -1,9 +1,9 @@
 ﻿using System;
 using UnityEngine;
-using ValeryPopov.Common.SaveLoad;
+using ValPackage.Common.SaveLoad;
 using Zenject;
 
-namespace ValeryPopov.Common.Ui
+namespace ValPackage.Common.Ui
 {
     /// <summary>
     /// Save value to <see cref="SaveSystem"/>

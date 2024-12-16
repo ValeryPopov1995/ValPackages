@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using TMPro;
 using UnityEngine;
 
-namespace ValeryPopov.Common.Localization
+namespace ValPackage.Common.Localization
 {
     public class LocalizationManager : MonoBehaviour, IInitializable
     {

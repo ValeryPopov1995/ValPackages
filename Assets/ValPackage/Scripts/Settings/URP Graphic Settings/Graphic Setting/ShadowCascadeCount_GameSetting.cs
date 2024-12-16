@@ -1,7 +1,7 @@
 ﻿using UnityEngine.Rendering.Universal;
 using Zenject;
 
-namespace ValeryPopov.Common.Settings.GraphicSettings
+namespace ValPackage.Common.Settings.GraphicSettings
 {
     public class ShadowCascadeCount_GameSetting : Int_GameSetting
     {

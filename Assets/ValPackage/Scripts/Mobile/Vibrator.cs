@@ -1,9 +1,9 @@
 ﻿using System.Threading.Tasks;
 using UnityEngine;
-using ValeryPopov.Common.SaveLoad;
+using ValPackage.Common.SaveLoad;
 using Zenject;
 
-namespace ValeryPopov.Common.Mobile
+namespace ValPackage.Common.Mobile
 {
     public class Vibrator : Singleton<Vibrator>
     {

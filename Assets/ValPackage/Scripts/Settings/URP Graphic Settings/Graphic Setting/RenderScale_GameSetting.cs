@@ -1,7 +1,7 @@
 ﻿using UnityEngine.Rendering.Universal;
 using Zenject;
 
-namespace ValeryPopov.Common.Settings.GraphicSettings
+namespace ValPackage.Common.Settings.GraphicSettings
 {
     public class RenderScale_GameSetting : Float_GameSetting
     {

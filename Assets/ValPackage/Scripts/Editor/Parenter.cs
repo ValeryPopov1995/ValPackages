@@ -2,7 +2,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace ValeryPopov.Common.Editor
+namespace ValPackage.Common.Editor
 {
     /// <summary>
     /// Usefull for perlace gameObject from one empty object to another (empty object is like an folder)

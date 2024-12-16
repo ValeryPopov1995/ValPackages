@@ -1,8 +1,8 @@
 ﻿using NaughtyAttributes;
 using UnityEngine;
-using ValeryPopov.Common.Extantions;
+using ValPackage.Common.Extantions;
 
-namespace ValeryPopov.Common
+namespace ValPackage.Common
 {
 
     public class TransformConstraint : MonoBehaviour
