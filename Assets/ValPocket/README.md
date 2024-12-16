@@ -1,6 +1,5 @@
-# Install
-Add to PackageManager from [URL](url)
-# About
+# 📦 ValPocket
+## About
 Set of popular useful free packages from AssetStore and Repositories:
 - [Hierarchy Icons](https://assetstore.unity.com/packages/package/224856)
 - [DoTween](https://assetstore.unity.com/packages/package/27676)
@@ -10,4 +9,9 @@ Set of popular useful free packages from AssetStore and Repositories:
 - [UniRx](https://assetstore.unity.com/packages/package/17276)
 - [UniTask](https://github.com/Cysharp/UniTask)
 - [Zenject](https://assetstore.unity.com/packages/package/157735)
-- Overrided or new prefabs of tools
+- [Overrided or new prefabs](https://github.com/ValeryPopov1995/ValPackages/tree/master/Assets/ValPocket/Customized) of tools
+## Install
+Add to PackageManager from URL
+```
+https://github.com/ValeryPopov1995/ValPackages.git?path=Assets/ValPocket
+```

@@ -12,7 +12,7 @@ namespace ValeryPopov.Common.Ui.ScrollSelect
     {
         public event Action OnShow, OnHide;
 
-        [SerializeField] private Transform _viewport;
+        [SerializeField] private Transform _content;
         [SerializeField, Min(0)] private float _fadeDuration = 1;
         [SerializeField] private bool _hideOnSecondClick = true;
         private bool _isShown => _canvasGroup.alpha > 0;
@@ -42,7 +42,7 @@ namespace ValeryPopov.Common.Ui.ScrollSelect
             _buttons = new SelectScrollButton[variants.Length];
             for (int i = 0; i < variants.Length; i++)
             {
-                _buttons[i] = Instantiate(buttonPrefab, _viewport);
+                _buttons[i] = Instantiate(buttonPrefab, _content);
                 _buttons[i].SetData(variants[i]);
             }
 

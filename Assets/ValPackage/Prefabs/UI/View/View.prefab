@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1457612495744154398}
   - component: {fileID: 1457612495744154393}
-  - component: {fileID: 9033497924705988754}
+  - component: {fileID: 6563112498909623730}
   m_Layer: 5
   m_Name: View
   m_TagString: Untagged
@@ -49,7 +49,7 @@ CanvasGroup:
   m_Interactable: 1
   m_BlocksRaycasts: 1
   m_IgnoreParentGroups: 0
---- !u!114 &9033497924705988754
+--- !u!114 &6563112498909623730
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -58,11 +58,20 @@ MonoBehaviour:
   m_GameObject: {fileID: 1457612495744154397}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 00209a2528859844286fadd955f0c210, type: 3}
+  m_Script: {fileID: 11500000, guid: 57351ad9da756184fb337b30bb9bc07e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  OnEscapeEvent:
-    m_PersistentCalls:
-      m_Calls: []
   <Type>k__BackingField: 0
   _hideOnStart: 1
+  OnShowEvent:
+    UnityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+  OnHideEvent:
+    UnityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+  OnEscapeEvent:
+    UnityEvent:
+      m_PersistentCalls:
+        m_Calls: []

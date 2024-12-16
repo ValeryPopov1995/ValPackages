@@ -196,7 +196,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 3297937555413481510}
   m_Direction: 2
   m_Value: 0
-  m_Size: 1
+  m_Size: 0.99996
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -289,7 +289,7 @@ GameObject:
   - component: {fileID: 602054348789142005}
   - component: {fileID: 7511719591632001571}
   - component: {fileID: 1887293391322544221}
-  - component: {fileID: 2340856622321340621}
+  - component: {fileID: 6650812699722111886}
   m_Layer: 5
   m_Name: Select Scroll View
   m_TagString: Untagged
@@ -400,7 +400,7 @@ CanvasGroup:
   m_Interactable: 1
   m_BlocksRaycasts: 1
   m_IgnoreParentGroups: 0
---- !u!114 &2340856622321340621
+--- !u!114 &6650812699722111886
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -409,11 +409,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1811263162404947559}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 90e5a4015e47be74e93b4537b847466c, type: 3}
+  m_Script: {fileID: 11500000, guid: 6f54b659747dd9548b6a77ed55f2a60b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _viewport: {fileID: 87213119464476692}
-  _fadeDuration: 0.3
+  _content: {fileID: 87213119464476692}
+  _fadeDuration: 1
   _hideOnSecondClick: 1
 --- !u!1 &2173352708184612539
 GameObject:
@@ -597,7 +597,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0.000026370497}
+  m_AnchoredPosition: {x: 0, y: -0.000053222484}
   m_SizeDelta: {x: 0, y: 300}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &6835957903820465221
