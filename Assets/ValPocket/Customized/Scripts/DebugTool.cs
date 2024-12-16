@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 
 namespace ValPocket.Customized
 {
-    public class DebugTools : MonoBehaviour
+    public class DebugTool : MonoBehaviour
     {
         [SerializeField] private GameObject debugTools;
         private static bool inited;
