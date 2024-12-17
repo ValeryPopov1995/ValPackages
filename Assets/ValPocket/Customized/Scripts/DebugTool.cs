@@ -20,12 +20,14 @@ namespace ValPocket.Customized
             DontDestroyOnLoad(gameObject);
             inited = true;
 
+            // resources
             DebugLogConsole.AddCommand("System_UnloadUnusedAssets", "Unload unused assets", () => Resources.UnloadUnusedAssets());
             DebugLogConsole.AddCommand("System_ClearCache", "Clear cache", () => Caching.ClearCache());
             DebugLogConsole.AddCommand("System_GarbageCollect", "Collect garbage", () => System.GC.Collect());
 
             DebugLogConsole.AddCommand<int>("System_LoadScene", "Load # scene (first index is 0)", index => SceneManager.LoadSceneAsync(index));
-            DebugLogConsole.AddCommand<int>("System_Quit", "Quit application", index => Application.Quit());
+            DebugLogConsole.AddCommand<int>("System_TargetFrameRate", "Set target frame rate", fps => Application.targetFrameRate = fps);
+            DebugLogConsole.AddCommand("System_Quit", "Quit application", () => Application.Quit());
 
             debugTools.SetActive(false);
         }
