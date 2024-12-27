@@ -5,6 +5,6 @@
     "description": "My developments",
     "dependencies": {
         "com.unity.addressables": "2.2.2",
-        "com.unity.cinemachin": "3.1.2"
+        "com.unity.cinemachine": "3.1.2"
     }
 }
