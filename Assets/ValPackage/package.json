@@ -1,6 +1,6 @@
 {
-    "name": "com.valerjan.valpackage",
-    "displayName": "Package Pack",
+    "name": "com.valerypopov.valpackage",
+    "displayName": "ValPackage",
     "version": "1.0.0",
     "description": "My developments",
     "dependencies": {
