@@ -1,7 +1,7 @@
 {
     "name": "com.valerypopov.valpackage",
     "displayName": "ValPackage",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "My developments",
     "dependencies": {
         "com.unity.addressables": "2.2.2",

@@ -1,9 +1,7 @@
 {
-    "name": "ValPocket",
+    "name": "IngameDebugConsole",
     "rootNamespace": "",
-    "references": [
-        "GUID:363ba038843084a46b4e950689faab3b"
-    ],
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

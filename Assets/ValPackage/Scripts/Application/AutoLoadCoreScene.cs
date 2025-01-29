@@ -15,7 +15,9 @@ namespace ValPackage.Common.App
             {
                 this.LogWarning("no project context, loading first scene and clearing log");
                 SceneManager.LoadScene(0);
+#if UNITY_EDITOR
                 ClearLog();
+#endif
             }
             else
                 Destroy(gameObject);
