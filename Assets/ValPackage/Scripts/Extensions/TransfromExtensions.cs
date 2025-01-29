@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 
-namespace ValPackage.Common.Extantions
+namespace ValPackage.Common.Extensions
 {
-    public static class TransfromExtantion
+    public static class TransfromExtensions
     {
         public static void SetPositionAndRotation(this Transform transform, Transform target)
         {

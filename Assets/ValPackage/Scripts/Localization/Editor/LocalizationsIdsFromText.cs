@@ -1,7 +1,7 @@
 ﻿using System.Linq;
 using UnityEditor;
 using UnityEngine;
-using ValPackage.Common.Extantions;
+using ValPackage.Common.Extensions;
 
 namespace ValPackage.Common.Localization.Editor
 {

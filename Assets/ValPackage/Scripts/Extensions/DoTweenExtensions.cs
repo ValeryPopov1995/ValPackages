@@ -4,9 +4,9 @@ using DG.Tweening.Plugins.Options;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace ValPackage.Common.Extantions
+namespace ValPackage.Common.Extensions
 {
-    public static class DoTweenExtantions
+    public static class DoTweenExtensions
     {
         public static TweenerCore<Color, Color, ColorOptions> DoAlpha(this Image image, float endValue, float duration)
         {

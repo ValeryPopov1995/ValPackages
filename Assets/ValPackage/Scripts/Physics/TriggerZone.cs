@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
-using ValPackage.Common.Extantions;
+using ValPackage.Common.Extensions;
 
 namespace ValPackage.Common.Physic
 {

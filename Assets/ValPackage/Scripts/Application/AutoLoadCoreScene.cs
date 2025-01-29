@@ -1,7 +1,7 @@
 ﻿using System.Reflection;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using ValPackage.Common.Extantions;
+using ValPackage.Common.Extensions;
 using Zenject;
 
 namespace ValPackage.Common.App

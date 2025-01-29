@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEditor;
 using UnityEngine;
-using ValPackage.Common.Extantions;
+using ValPackage.Common.Extensions;
 using ValPackage.Common.SaveLoad;
 using Zenject;
 

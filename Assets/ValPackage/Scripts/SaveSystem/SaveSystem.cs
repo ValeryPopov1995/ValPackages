@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using UnityEngine;
-using ValPackage.Common.Extantions;
+using ValPackage.Common.Extensions;
 
 namespace ValPackage.Common.SaveLoad
 {

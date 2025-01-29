@@ -1,4 +1,4 @@
-﻿using ValPackage.Common.Extantions;
+﻿using ValPackage.Common.Extensions;
 using System;
 using UnityEngine;
 

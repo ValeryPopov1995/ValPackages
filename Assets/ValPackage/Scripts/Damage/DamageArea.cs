@@ -2,7 +2,7 @@
 using System.Data;
 using System.Linq;
 using UnityEngine;
-using ValPackage.Common.Extantions;
+using ValPackage.Common.Extensions;
 
 namespace ValPackage.Common.Damage
 {

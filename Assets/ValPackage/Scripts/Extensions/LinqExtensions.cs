@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace ValPackage.Common.Extantions
+namespace ValPackage.Common.Extensions
 {
-    public static class LinqExtension
+    public static class LinqExtensions
     {
         public static IEnumerable<T> ForEach<T>(this IEnumerable<T> enumerable, Action<T> action)
         {

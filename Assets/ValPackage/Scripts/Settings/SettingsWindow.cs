@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
-using ValPackage.Common.Extantions;
+using ValPackage.Common.Extensions;
 using ValPackage.Common.Ui;
 
 namespace ValPackage.Common.Settings

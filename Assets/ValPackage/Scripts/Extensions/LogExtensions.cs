@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 
-namespace ValPackage.Common.Extantions
+namespace ValPackage.Common.Extensions
 {
-    public static class LogExtantion
+    public static class LogExtensions
     {
         public static void Log<T>(this T debugClass, object message)
         {

@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
 using UnityEngine.ResourceManagement.ResourceProviders;
-using ValPackage.Common.Extantions;
+using ValPackage.Common.Extensions;
 using ValPackage.Common.Rendering;
 using Zenject;
 

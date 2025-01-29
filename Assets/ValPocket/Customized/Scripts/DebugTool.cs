@@ -9,7 +9,7 @@ namespace ValPocket.Customized
         [SerializeField] private GameObject debugTools;
         private static bool inited;
 
-        private void Awake()
+        private void Start() // after DebugLogConsole.Awake
         {
             if (inited)
             {

@@ -1,6 +1,6 @@
 ﻿using NaughtyAttributes;
 using UnityEngine;
-using ValPackage.Common.Extantions;
+using ValPackage.Common.Extensions;
 
 namespace ValPackage.Common
 {

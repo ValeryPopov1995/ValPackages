@@ -6,7 +6,7 @@ using UnityEngine;
 using UnityEngine.Rendering;
 using UnityEngine.Rendering.Universal;
 using ValPackage.Common.Addressables;
-using ValPackage.Common.Extantions;
+using ValPackage.Common.Extensions;
 using Zenject;
 
 namespace ValPackage.Common.Rendering

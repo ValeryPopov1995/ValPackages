@@ -2,7 +2,7 @@
 using System;
 using System.IO;
 using UnityEngine;
-using ValPackage.Common.Extantions;
+using ValPackage.Common.Extensions;
 
 namespace ValPackage.Common
 {

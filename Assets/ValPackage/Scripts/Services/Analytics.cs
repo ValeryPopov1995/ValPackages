@@ -1,5 +1,5 @@
 using System.Collections.Generic;
-using ValPackage.Common.Extantions;
+using ValPackage.Common.Extensions;
 
 namespace ValPackage.Common.Services
 {

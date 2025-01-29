@@ -1,6 +1,6 @@
-﻿namespace ValPackage.Common.Extantions
+﻿namespace ValPackage.Common.Extensions
 {
-    public static class StringExtantion
+    public static class StringExtension
     {
         public static string ReplaceSpecialChars(this string text)
         {
